@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.venv/
+synthetic_t2/
+*.h5ad
